@@ -1,4 +1,4 @@
-# quicktask
+# QuickTask
 
 QuickTask - A simple but powerful to-do and task tracker.
 
